@@ -5,7 +5,7 @@ VisualStudioVersion = 17.11.35327.3
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Kanzway.API", "Kanzway.API\Kanzway.API.csproj", "{C876C87D-BC07-4131-99CA-B8875D012884}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kensway.Unittest", "Kensway.Unittest\Kensway.Unittest.csproj", "{267CB252-BE71-4E65-84D4-2E172DCA14D5}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kansway.Unittest", "Kanzway.Unittest\Kansway.Unittest.csproj", "{267CB252-BE71-4E65-84D4-2E172DCA14D5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
