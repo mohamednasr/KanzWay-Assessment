@@ -39,7 +39,7 @@ Accepts a number as input and returns a list of strings based on the Business lo
 ### Clone the repository
 ``` terminal
 git clone https://github.com/mohamednasr/KanzWay-MohamedNasr.git
-cd KanzWay-Assessment
+cd KanzWay-MohamedNasr
 ```
 
 ### Run The API Project
@@ -69,7 +69,7 @@ https://localhost:7246/swagger/index.html
 ### Running Tests
 **1. Navigate to the test project directory:**
 ```terminal
-cd Kensway.Unittest
+cd Kanzway.Unittest
 ```
 
 **2. Run the tests:**
