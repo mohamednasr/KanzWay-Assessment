@@ -38,7 +38,7 @@ Accepts a number as input and returns a list of strings based on the Business lo
 
 ### Clone the repository
 ``` terminal
-git clone https://github.com/mohamednasr/KanzWay-Assessment.git
+git clone https://github.com/mohamednasr/KanzWay-MohamedNasr.git
 cd KanzWay-Assessment
 ```
 
