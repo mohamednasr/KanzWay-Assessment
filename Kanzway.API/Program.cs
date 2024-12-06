@@ -1,4 +1,5 @@
 using Asp.Versioning;
+using Kanzway.API.Infrastructure;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.OpenApi.Models;
 using System.Reflection;
@@ -22,6 +23,8 @@ builder.Services.AddSwaggerGen(c =>
     c.IncludeXmlComments(xmlPath1);
 });
 var app = builder.Build();
+app.UseMiddleware(typeof(ErrorHandlingMiddleware));
+
 app.UseSwagger();
 
 app.UseSwaggerUI(c =>
